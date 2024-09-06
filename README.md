@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="(https://github.com/user-attachments/assets/adb67651-4e6e-4651-8856-dcead17b9964)" width="200" />
+<p>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3pwbHU0MGtvMTFqNHJxYTU1eHBoZ3loM3dkMTdvcWo5M3Njc2hubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n8PDxkS22YehwPtYfX/giphy.gif"
 </p>
-
-![videoframe_4500](https://github.com/user-attachments/assets/adb67651-4e6e-4651-8856-dcead17b9964)
-
 
 ##### Com 2 anos de existência, a Yacal se firma como uma empresa inclusiva e de qualidade, conduzida por princípios fundamentais. Buscamos sempre atender a todas as necessidades, sendo referência em praticidade, utilidade, diversão e inovação. Esperamos transmitir a identidade e os objetivos da Yacal.
 

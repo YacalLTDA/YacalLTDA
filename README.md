@@ -8,7 +8,7 @@
 
 <h2 align="center"> Missão </h2>
 
-Oferecemos soluções tecnológicas práticas, acessíveis e cativantes para o dia a dia. Na Yacal, fornecemos ferramentas que simplificam o cotidiano e proporcionam diversão.
+Oferecemos soluções tecnológicas práticas, acessíveis e interessantes para o dia a dia. Na Yacal, fornecemos ferramentas que simplificam o cotidiano e proporcionam diversão.
 
 
 ---
